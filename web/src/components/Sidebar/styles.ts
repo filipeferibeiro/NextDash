@@ -17,7 +17,7 @@ export const ButtonList = styled.ul`
     display: flex;
     flex-direction: column;
     align-items: center;
-    overflow-y: scroll;
+    overflow-y: auto;
 
 `;
 
